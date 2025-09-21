@@ -1,0 +1,792 @@
+{
+  "datanodes": [
+    {
+      "code": "zb.A020101_sj.2024",
+      "data": {
+        "code": "zb.A020101_sj.2024",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1339814.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1339814.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020101_sj.2023",
+      "data": {
+        "code": "zb.A020101_sj.2023",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1284773.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1284773.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020101_sj.2022",
+      "data": {
+        "code": "zb.A020101_sj.2022",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1223706.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1223706.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020101_sj.2021",
+      "data": {
+        "code": "zb.A020101_sj.2021",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1165816.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1165816.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020101_sj.2020",
+      "data": {
+        "code": "zb.A020101_sj.2020",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1026751.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1026751.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020102_sj.2024",
+      "data": {
+        "code": "zb.A020102_sj.2024",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1349083.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1349083.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020102_sj.2023",
+      "data": {
+        "code": "zb.A020102_sj.2023",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1294271.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1294271.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020102_sj.2022",
+      "data": {
+        "code": "zb.A020102_sj.2022",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1234029.4,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1234029.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020102_sj.2021",
+      "data": {
+        "code": "zb.A020102_sj.2021",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1173823,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1173823.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020102_sj.2020",
+      "data": {
+        "code": "zb.A020102_sj.2020",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 1034867.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "1034867.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020103_sj.2024",
+      "data": {
+        "code": "zb.A020103_sj.2024",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 91413.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "91413.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020103_sj.2023",
+      "data": {
+        "code": "zb.A020103_sj.2023",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 89169.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "89169.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020103_sj.2022",
+      "data": {
+        "code": "zb.A020103_sj.2022",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 88207,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "88207.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020103_sj.2021",
+      "data": {
+        "code": "zb.A020103_sj.2021",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 83216.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "83216.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020103_sj.2020",
+      "data": {
+        "code": "zb.A020103_sj.2020",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 78030.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "78030.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020104_sj.2024",
+      "data": {
+        "code": "zb.A020104_sj.2024",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 492087.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "492087.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020104_sj.2023",
+      "data": {
+        "code": "zb.A020104_sj.2023",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 475936.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "475936.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020104_sj.2022",
+      "data": {
+        "code": "zb.A020104_sj.2022",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 467629.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "467629.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020104_sj.2021",
+      "data": {
+        "code": "zb.A020104_sj.2021",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 447138.2,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "447138.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020104_sj.2020",
+      "data": {
+        "code": "zb.A020104_sj.2020",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 381985.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "381985.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020105_sj.2024",
+      "data": {
+        "code": "zb.A020105_sj.2024",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 765582.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "765582.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020105_sj.2023",
+      "data": {
+        "code": "zb.A020105_sj.2023",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 729166.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "729166.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020105_sj.2022",
+      "data": {
+        "code": "zb.A020105_sj.2022",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 678192.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "678192.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020105_sj.2021",
+      "data": {
+        "code": "zb.A020105_sj.2021",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 643468.4,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "643468.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020105_sj.2020",
+      "data": {
+        "code": "zb.A020105_sj.2020",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 574850.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "574850.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020106_sj.2024",
+      "data": {
+        "code": "zb.A020106_sj.2024",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 95749,
+        "dotcount": 0,
+        "hasdata": true,
+        "strdata": "95749"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020106_sj.2023",
+      "data": {
+        "code": "zb.A020106_sj.2023",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 91746,
+        "dotcount": 0,
+        "hasdata": true,
+        "strdata": "91746"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020106_sj.2022",
+      "data": {
+        "code": "zb.A020106_sj.2022",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 87385,
+        "dotcount": 0,
+        "hasdata": true,
+        "strdata": "87385"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020106_sj.2021",
+      "data": {
+        "code": "zb.A020106_sj.2021",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 83111,
+        "dotcount": 0,
+        "hasdata": true,
+        "strdata": "83111"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A020106_sj.2020",
+      "data": {
+        "code": "zb.A020106_sj.2020",
+        "salesMetric": "gdp_A0201_year",
+        "dataValue": 73338,
+        "dotcount": 0,
+        "hasdata": true,
+        "strdata": "73338"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A020106",
+          "wdcode": "zb"
+        }
+      ]
+    }
+  ],
+  "wdnodes": [
+    {
+      "nodes": [
+        {
+          "code": "A020101",
+          "cname": "国民总收入",
+          "dotcount": 1,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "国民总收入",
+          "nodesort": "1",
+          "sortcode": 227,
+          "tag": "",
+          "unit": "亿元"
+        },
+        {
+          "code": "A020102",
+          "cname": "国内生产总值",
+          "dotcount": 1,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "国内生产总值",
+          "nodesort": "1",
+          "sortcode": 228,
+          "tag": "",
+          "unit": "亿元"
+        },
+        {
+          "code": "A020103",
+          "cname": "第一产业增加值",
+          "dotcount": 1,
+          "exp": "第一产业增加值是指按市场价格计算的一个国家（或地区）所有常住单位在一定时期内从事第一产业生产活动的最终成果。第一产业是指农、林、牧、渔业（不含农、林、牧、渔服务业）。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "第一产业增加值",
+          "nodesort": "1",
+          "sortcode": 229,
+          "tag": "",
+          "unit": "亿元"
+        },
+        {
+          "code": "A020104",
+          "cname": "第二产业增加值",
+          "dotcount": 1,
+          "exp": "第二产业增加值是指按市场价格计算的一个国家（或地区）所有常住单位在一定时期内从事第二产业生产活动的最终成果。第二产业是指采矿业（不含开采辅助活动），制造业（不含金属制品、机械和设备修理业），电力、热力、燃气及水生产和供应业，建筑业。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "第二产业增加值",
+          "nodesort": "1",
+          "sortcode": 230,
+          "tag": "",
+          "unit": "亿元"
+        },
+        {
+          "code": "A020105",
+          "cname": "第三产业增加值",
+          "dotcount": 1,
+          "exp": "第三产业增加值是指按市场价格计算的一个国家（或地区）所有常住单位在一定时期内从事第三产业生产活动的最终成果。第三产业是指除第一、二产业以外的其他行业。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "第三产业增加值",
+          "nodesort": "1",
+          "sortcode": 231,
+          "tag": "",
+          "unit": "亿元"
+        },
+        {
+          "code": "A020106",
+          "cname": "人均国内生产总值",
+          "dotcount": 0,
+          "exp": "人均国内生产总值是指国内生产总值的绝对值与该年平均人口的比值，是衡量一个国家或地区每个居民对该国家或地区的经济贡献或创造价值的指标。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "人均国内生产总值",
+          "nodesort": "1",
+          "sortcode": 232,
+          "tag": "",
+          "unit": "元"
+        }
+      ],
+      "wdcode": "zb",
+      "wdname": "指标"
+    },
+    {
+      "nodes": [
+        {
+          "code": "2020",
+          "cname": "2020年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2020年",
+          "nodesort": "1",
+          "sortcode": 7,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2021",
+          "cname": "2021年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2021年",
+          "nodesort": "1",
+          "sortcode": 6,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2022",
+          "cname": "2022年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2022年",
+          "nodesort": "1",
+          "sortcode": 5,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2023",
+          "cname": "2023年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2023年",
+          "nodesort": "1",
+          "sortcode": 4,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2024",
+          "cname": "2024年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2024年",
+          "nodesort": "1",
+          "sortcode": 3,
+          "tag": "",
+          "unit": ""
+        }
+      ],
+      "wdcode": "sj",
+      "wdname": "时间"
+    }
+  ],
+  "hasdatacount": 30
+}

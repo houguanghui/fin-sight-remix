@@ -1,0 +1,2203 @@
+{
+  "datanodes": [
+    {
+      "code": "zb.A090101_sj.2024",
+      "data": {
+        "code": "zb.A090101_sj.2024",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.2,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2023",
+      "data": {
+        "code": "zb.A090101_sj.2023",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.2,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2022",
+      "data": {
+        "code": "zb.A090101_sj.2022",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2021",
+      "data": {
+        "code": "zb.A090101_sj.2021",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2020",
+      "data": {
+        "code": "zb.A090101_sj.2020",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2019",
+      "data": {
+        "code": "zb.A090101_sj.2019",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2019",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2018",
+      "data": {
+        "code": "zb.A090101_sj.2018",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2018",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2017",
+      "data": {
+        "code": "zb.A090101_sj.2017",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2017",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2016",
+      "data": {
+        "code": "zb.A090101_sj.2016",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2016",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2015",
+      "data": {
+        "code": "zb.A090101_sj.2015",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.4,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2015",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2014",
+      "data": {
+        "code": "zb.A090101_sj.2014",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2014",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2013",
+      "data": {
+        "code": "zb.A090101_sj.2013",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2013",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2012",
+      "data": {
+        "code": "zb.A090101_sj.2012",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2012",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090101_sj.2011",
+      "data": {
+        "code": "zb.A090101_sj.2011",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 105.4,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "105.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2011",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090101",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2024",
+      "data": {
+        "code": "zb.A090102_sj.2024",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.2,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2023",
+      "data": {
+        "code": "zb.A090102_sj.2023",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2022",
+      "data": {
+        "code": "zb.A090102_sj.2022",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2021",
+      "data": {
+        "code": "zb.A090102_sj.2021",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2020",
+      "data": {
+        "code": "zb.A090102_sj.2020",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2019",
+      "data": {
+        "code": "zb.A090102_sj.2019",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2019",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2018",
+      "data": {
+        "code": "zb.A090102_sj.2018",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2018",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2017",
+      "data": {
+        "code": "zb.A090102_sj.2017",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2017",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2016",
+      "data": {
+        "code": "zb.A090102_sj.2016",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2016",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2015",
+      "data": {
+        "code": "zb.A090102_sj.2015",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2015",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2014",
+      "data": {
+        "code": "zb.A090102_sj.2014",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2014",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2013",
+      "data": {
+        "code": "zb.A090102_sj.2013",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2013",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2012",
+      "data": {
+        "code": "zb.A090102_sj.2012",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2012",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090102_sj.2011",
+      "data": {
+        "code": "zb.A090102_sj.2011",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 105.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "105.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2011",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090102",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2024",
+      "data": {
+        "code": "zb.A090103_sj.2024",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2023",
+      "data": {
+        "code": "zb.A090103_sj.2023",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2022",
+      "data": {
+        "code": "zb.A090103_sj.2022",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2021",
+      "data": {
+        "code": "zb.A090103_sj.2021",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2020",
+      "data": {
+        "code": "zb.A090103_sj.2020",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 103,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "103.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2019",
+      "data": {
+        "code": "zb.A090103_sj.2019",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 103.2,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "103.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2019",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2018",
+      "data": {
+        "code": "zb.A090103_sj.2018",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2018",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2017",
+      "data": {
+        "code": "zb.A090103_sj.2017",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2017",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2016",
+      "data": {
+        "code": "zb.A090103_sj.2016",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2016",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2015",
+      "data": {
+        "code": "zb.A090103_sj.2015",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2015",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2014",
+      "data": {
+        "code": "zb.A090103_sj.2014",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2014",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2013",
+      "data": {
+        "code": "zb.A090103_sj.2013",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2013",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2012",
+      "data": {
+        "code": "zb.A090103_sj.2012",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2012",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090103_sj.2011",
+      "data": {
+        "code": "zb.A090103_sj.2011",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 105.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "105.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2011",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090103",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2022",
+      "data": {
+        "code": "zb.A090104_sj.2022",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2021",
+      "data": {
+        "code": "zb.A090104_sj.2021",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2020",
+      "data": {
+        "code": "zb.A090104_sj.2020",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.4,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2019",
+      "data": {
+        "code": "zb.A090104_sj.2019",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2019",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2018",
+      "data": {
+        "code": "zb.A090104_sj.2018",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2018",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2017",
+      "data": {
+        "code": "zb.A090104_sj.2017",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2017",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2016",
+      "data": {
+        "code": "zb.A090104_sj.2016",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2016",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2015",
+      "data": {
+        "code": "zb.A090104_sj.2015",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2015",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2014",
+      "data": {
+        "code": "zb.A090104_sj.2014",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2014",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2013",
+      "data": {
+        "code": "zb.A090104_sj.2013",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.4,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2013",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2012",
+      "data": {
+        "code": "zb.A090104_sj.2012",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2012",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090104_sj.2011",
+      "data": {
+        "code": "zb.A090104_sj.2011",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 104.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "104.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2011",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090104",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2024",
+      "data": {
+        "code": "zb.A090105_sj.2024",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 97.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "97.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2023",
+      "data": {
+        "code": "zb.A090105_sj.2023",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 97,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "97.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2022",
+      "data": {
+        "code": "zb.A090105_sj.2022",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 104.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "104.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2021",
+      "data": {
+        "code": "zb.A090105_sj.2021",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 108.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "108.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2020",
+      "data": {
+        "code": "zb.A090105_sj.2020",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98.2,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2019",
+      "data": {
+        "code": "zb.A090105_sj.2019",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 99.6793,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "99.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2019",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2018",
+      "data": {
+        "code": "zb.A090105_sj.2018",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 103.5,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "103.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2018",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2017",
+      "data": {
+        "code": "zb.A090105_sj.2017",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 106.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "106.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2017",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2016",
+      "data": {
+        "code": "zb.A090105_sj.2016",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2016",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2015",
+      "data": {
+        "code": "zb.A090105_sj.2015",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 94.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "94.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2015",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2014",
+      "data": {
+        "code": "zb.A090105_sj.2014",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2014",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2013",
+      "data": {
+        "code": "zb.A090105_sj.2013",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2013",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2012",
+      "data": {
+        "code": "zb.A090105_sj.2012",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98.3,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2012",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090105_sj.2011",
+      "data": {
+        "code": "zb.A090105_sj.2011",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 106,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "106.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2011",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090105",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2024",
+      "data": {
+        "code": "zb.A090106_sj.2024",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 97.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "97.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2024",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2023",
+      "data": {
+        "code": "zb.A090106_sj.2023",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 96.4,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "96.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2023",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2022",
+      "data": {
+        "code": "zb.A090106_sj.2022",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 106.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "106.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2022",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2021",
+      "data": {
+        "code": "zb.A090106_sj.2021",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 111,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "111.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2021",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2020",
+      "data": {
+        "code": "zb.A090106_sj.2020",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 97.7,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "97.7"
+      },
+      "wds": [
+        {
+          "valuecode": "2020",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2019",
+      "data": {
+        "code": "zb.A090106_sj.2019",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 99.2807,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "99.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2019",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2018",
+      "data": {
+        "code": "zb.A090106_sj.2018",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 104.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "104.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2018",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2017",
+      "data": {
+        "code": "zb.A090106_sj.2017",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 108.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "108.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2017",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2016",
+      "data": {
+        "code": "zb.A090106_sj.2016",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2016",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2015",
+      "data": {
+        "code": "zb.A090106_sj.2015",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 93.9,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "93.9"
+      },
+      "wds": [
+        {
+          "valuecode": "2015",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2014",
+      "data": {
+        "code": "zb.A090106_sj.2014",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 97.8,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "97.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2014",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2013",
+      "data": {
+        "code": "zb.A090106_sj.2013",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.0"
+      },
+      "wds": [
+        {
+          "valuecode": "2013",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2012",
+      "data": {
+        "code": "zb.A090106_sj.2012",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98.2,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2012",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090106_sj.2011",
+      "data": {
+        "code": "zb.A090106_sj.2011",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 109.1,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "109.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2011",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090106",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2019",
+      "data": {
+        "code": "zb.A090107_sj.2019",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 102.5601,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "102.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2019",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2018",
+      "data": {
+        "code": "zb.A090107_sj.2018",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 105.37,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "105.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2018",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2017",
+      "data": {
+        "code": "zb.A090107_sj.2017",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 105.78,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "105.8"
+      },
+      "wds": [
+        {
+          "valuecode": "2017",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2016",
+      "data": {
+        "code": "zb.A090107_sj.2016",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 99.43,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "99.4"
+      },
+      "wds": [
+        {
+          "valuecode": "2016",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2015",
+      "data": {
+        "code": "zb.A090107_sj.2015",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 98.18,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "98.2"
+      },
+      "wds": [
+        {
+          "valuecode": "2015",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2014",
+      "data": {
+        "code": "zb.A090107_sj.2014",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.51,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.5"
+      },
+      "wds": [
+        {
+          "valuecode": "2014",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2013",
+      "data": {
+        "code": "zb.A090107_sj.2013",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 100.25,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "100.3"
+      },
+      "wds": [
+        {
+          "valuecode": "2013",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2012",
+      "data": {
+        "code": "zb.A090107_sj.2012",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 101.12,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "101.1"
+      },
+      "wds": [
+        {
+          "valuecode": "2012",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    },
+    {
+      "code": "zb.A090107_sj.2011",
+      "data": {
+        "code": "zb.A090107_sj.2011",
+        "salesMetric": "ppi_A0901_year",
+        "dataValue": 106.6,
+        "dotcount": 1,
+        "hasdata": true,
+        "strdata": "106.6"
+      },
+      "wds": [
+        {
+          "valuecode": "2011",
+          "wdcode": "sj"
+        },
+        {
+          "valuecode": "A090107",
+          "wdcode": "zb"
+        }
+      ]
+    }
+  ],
+  "wdnodes": [
+    {
+      "nodes": [
+        {
+          "code": "A090101",
+          "cname": "居民消费价格指数(上年=100)",
+          "dotcount": 1,
+          "exp": "居民消费价格指数是反映一定时期内城乡居民所购买的生活消费品和服务项目价格变动趋势和程度的相对数，是对城市居民消费价格指数和农村居民消费价格指数进行综合汇总计算的结果。通过该指数可以观察和分析消费品的零售价格和服务项目价格变动对城乡居民实际生活费支出的影响程度。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "居民消费价格指数(上年=100)",
+          "nodesort": "1",
+          "sortcode": 9221,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "A090102",
+          "cname": "城市居民消费价格指数(上年=100)",
+          "dotcount": 1,
+          "exp": "城市居民消费价格指数是反映一定时期内城市居民家庭所购买的生活消费品价格和服务项目价格变动趋势和程度的相对数。通过该指数可以观察和分析消费品的零售价格和服务项目价格变动对城镇居民收入和消费支出的影响。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "城市居民消费价格指数(上年=100)",
+          "nodesort": "1",
+          "sortcode": 9222,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "A090103",
+          "cname": "农村居民消费价格指数(上年=100)",
+          "dotcount": 1,
+          "exp": "农村居民消费价格指数是反映一定时期内农村居民家庭所购买的生活消费品价格和服务项目价格变动趋势和程度的相对数。该指数可以观察农村消费品的零售价格和服务项目价格变动对农村居民收入和生活消费支出的影响。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "农村居民消费价格指数(上年=100)",
+          "nodesort": "1",
+          "sortcode": 9223,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "A090104",
+          "cname": "商品零售价格指数(上年=100)",
+          "dotcount": 1,
+          "exp": "商品零售价格指数是反映一定时期内城乡商品零售价格变动趋势和程度的相对数。商品零售价格的变动与国家的财政收入、市场供需的平衡、消费与积累的比例关系有关。因此，该指数可以从一个侧面对上述经济活动进行观察和分析。1993年及以前，全国商品零售价格指数含农业生产资料价格。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "商品零售价格指数(上年=100)",
+          "nodesort": "1",
+          "sortcode": 9224,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "A090105",
+          "cname": "工业生产者出厂价格指数(上年=100)",
+          "dotcount": 1,
+          "exp": "工业生产者出厂价格指数是反映一定时期内全部工业产品出厂价格总水平的变动趋势和程度的相对数，包括工业企业售给本企业以外所有单位的各种产品和直接售给居民用于生活消费的产品。该指数可以观察出厂价格变动对工业总产值及增加值的影响。",
+          "ifshowcode": false,
+          "memo": "国家统计局从2011年1月开始实施新的工业生产者价格统计调查制度方法。\"工业品价格统计\"改称为\"工业生产者价格统计\"，将\"工业品出厂价格指数\"改称为\"工业生产者出厂价格指数\"。",
+          "name": "工业生产者出厂价格指数(上年=100)",
+          "nodesort": "1",
+          "sortcode": 9225,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "A090106",
+          "cname": "工业生产者购进价格指数(上年=100)",
+          "dotcount": 1,
+          "exp": "工业生产者购进价格指数是反映工业企业作为生产投入，而从物资交易市场和能源、原材料生产企业购买原材料、燃料和动力产品时，所支付的价格水平变动趋势和程度的统计指标，是扣除工业企业物质消耗成本中的价格变动影响的重要依据。目前，我国编制的工业生产者购进价格指数所调查的产品包括燃料动力、黑色金属、有色金属、化工、建材等九大类。",
+          "ifshowcode": false,
+          "memo": "国家统计局从2011年1月开始实施新的工业生产者价格统计调查制度方法。\"工业品价格统计\"改称为\"工业生产者价格统计\"，相应地将\"原材料、燃料、动力购进价格指数\"改称为\"工业生产者购进价格指数\"。",
+          "name": "工业生产者购进价格指数(上年=100)",
+          "nodesort": "1",
+          "sortcode": 9226,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "A090107",
+          "cname": "固定资产投资价格指数(上年=100)",
+          "dotcount": 1,
+          "exp": "固定资产投资价格指数是反映一定时期内固定资产投资品及取费项目的价格变动趋势和程度的相对数。固定资产投资额是由建筑安装工程投资完成额、设备工器具购置投资完成额和其他费用投资完成额三部分组成的。编制固定资产投资价格指数应首先分别编制上述三部分投资的价格指数，然后采用加权算术平均法求出固定资产投资价格总指数。",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "固定资产投资价格指数(上年=100)",
+          "nodesort": "1",
+          "sortcode": 9227,
+          "tag": "",
+          "unit": ""
+        }
+      ],
+      "wdcode": "zb",
+      "wdname": "指标"
+    },
+    {
+      "nodes": [
+        {
+          "code": "2011",
+          "cname": "2011年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2011年",
+          "nodesort": "1",
+          "sortcode": 16,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2012",
+          "cname": "2012年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2012年",
+          "nodesort": "1",
+          "sortcode": 15,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2013",
+          "cname": "2013年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2013年",
+          "nodesort": "1",
+          "sortcode": 14,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2014",
+          "cname": "2014年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2014年",
+          "nodesort": "1",
+          "sortcode": 13,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2015",
+          "cname": "2015年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2015年",
+          "nodesort": "1",
+          "sortcode": 12,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2016",
+          "cname": "2016年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2016年",
+          "nodesort": "1",
+          "sortcode": 11,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2017",
+          "cname": "2017年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2017年",
+          "nodesort": "1",
+          "sortcode": 10,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2018",
+          "cname": "2018年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2018年",
+          "nodesort": "1",
+          "sortcode": 9,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2019",
+          "cname": "2019年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2019年",
+          "nodesort": "1",
+          "sortcode": 8,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2020",
+          "cname": "2020年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2020年",
+          "nodesort": "1",
+          "sortcode": 7,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2021",
+          "cname": "2021年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2021年",
+          "nodesort": "1",
+          "sortcode": 6,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2022",
+          "cname": "2022年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2022年",
+          "nodesort": "1",
+          "sortcode": 5,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2023",
+          "cname": "2023年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2023年",
+          "nodesort": "1",
+          "sortcode": 4,
+          "tag": "",
+          "unit": ""
+        },
+        {
+          "code": "2024",
+          "cname": "2024年",
+          "dotcount": 4,
+          "exp": "",
+          "ifshowcode": false,
+          "memo": "",
+          "name": "2024年",
+          "nodesort": "1",
+          "sortcode": 3,
+          "tag": "",
+          "unit": ""
+        }
+      ],
+      "wdcode": "sj",
+      "wdname": "时间"
+    }
+  ],
+  "hasdatacount": 91
+}

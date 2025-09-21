@@ -1,0 +1,13 @@
+{
+  "cashFlowAdequacy": 1.085,
+  "freeCashFlow": 63973491832.3,
+  "reinvestmentRatio": 0.9607,
+  "cashIncomeRatio": 0.9091,
+  "operatingVsProfit": false,
+  "reinvestmentRatioGood": true,
+  "cashFlowAdequacyGood": true,
+  "operatingCashFlow": 66593247721.09,
+  "freeCashFlowPositive": true,
+  "cashIncomeRatioGood": true,
+  "netProfit": 77521476277.8
+}

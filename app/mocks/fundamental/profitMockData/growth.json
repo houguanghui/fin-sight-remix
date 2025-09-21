@@ -1,0 +1,44 @@
+[
+  {
+    "secucode": "600519.SH",
+    "year": 2025,
+    "revenueGrowth": 9.82,
+    "profitGrowth": 10.22,
+    "marginTrend": 91.64
+  },
+  {
+    "secucode": "600519.SH",
+    "year": 2024,
+    "revenueGrowth": 17.13,
+    "profitGrowth": 15.36,
+    "marginTrend": 91.96
+  },
+  {
+    "secucode": "600519.SH",
+    "year": 2023,
+    "revenueGrowth": 19.56,
+    "profitGrowth": 19.22,
+    "marginTrend": 92.02
+  },
+  {
+    "secucode": "600519.SH",
+    "year": 2022,
+    "revenueGrowth": 17.36,
+    "profitGrowth": 18.64,
+    "marginTrend": 92.05
+  },
+  {
+    "secucode": "600519.SH",
+    "year": 2021,
+    "revenueGrowth": 11.59,
+    "profitGrowth": 9.75,
+    "marginTrend": 91.45
+  },
+  {
+    "secucode": "600519.SH",
+    "year": 2020,
+    "revenueGrowth": 11.37,
+    "profitGrowth": 13.12,
+    "marginTrend": 91.47
+  }
+]

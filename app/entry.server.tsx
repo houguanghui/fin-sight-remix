@@ -1,0 +1,105 @@
+import { PassThrough } from "node:stream";
+
+import type { AppLoadContext, EntryContext } from "react-router";
+import { createReadableStreamFromReadable } from "@react-router/node";
+import { ServerRouter } from "react-router";
+import { isbot } from "isbot";
+import type { RenderToPipeableStreamOptions } from "react-dom/server";
+import { renderToPipeableStream } from "react-dom/server";
+import { StyleProvider, createCache, extractStyle } from '@ant-design/cssinjs'
+import { ServerStyleSheet } from 'styled-components'
+import { server } from './mocks/node'
+
+export const streamTimeout = 5_000;
+
+if (process.env.NODE_ENV === 'development') {
+  server.listen()
+}
+
+export default function handleRequest(
+  request: Request,
+  responseStatusCode: number,
+  responseHeaders: Headers,
+  routerContext: EntryContext,
+  loadContext: AppLoadContext,
+  // If you have middleware enabled:
+  // loadContext: unstable_RouterContextProvider
+) {
+  return new Promise((resolve, reject) => {
+    let shellRendered = false;
+    let userAgent = request.headers.get("user-agent");
+
+    // Ensure requests from bots and SPA Mode renders wait for all content to load before responding
+    // https://react.dev/reference/react-dom/server/renderToPipeableStream#waiting-for-all-content-to-load-for-crawlers-and-static-generation
+    let readyOption: keyof RenderToPipeableStreamOptions =
+      (userAgent && isbot(userAgent)) || routerContext.isSpaMode
+        ? "onAllReady"
+        : "onShellReady";
+
+    // Abort the rendering stream after the `streamTimeout` so it has time to
+    // flush down the rejected boundaries
+    let timeoutId: ReturnType<typeof setTimeout> | undefined = setTimeout(
+      () => abort(),
+      streamTimeout + 1000,
+    );
+
+    const cache = createCache()
+    const sheet = new ServerStyleSheet()
+    let isStyleExtracted = false
+    const { pipe, abort } = renderToPipeableStream(
+      <StyleProvider cache={cache}>
+        <ServerRouter context={routerContext} url={request.url} />
+      </StyleProvider>,
+      {
+        [readyOption]() {
+          shellRendered = true;
+          const body = new PassThrough({
+            transform(chunk, _, callback) {
+              const str: string = chunk.toString()
+              const styleText = extractStyle(cache)
+              const styles = sheet.getStyleTags()
+              if (!isStyleExtracted) {
+                if (str.includes('__ANTD_STYLE__')) {
+                  const antdStyle = str.replace('__ANTD_STYLE__', styleText)
+                  chunk = antdStyle.replace('__CSS_IN_JSS__', styles)
+                  isStyleExtracted = true
+                }
+              }
+              callback(null, chunk)
+            },
+            final(callback) {
+              // Clear the timeout to prevent retaining the closure and memory leak
+              clearTimeout(timeoutId);
+              timeoutId = undefined;
+              callback();
+            },
+          });
+          const stream = createReadableStreamFromReadable(body);
+
+          responseHeaders.set("Content-Type", "text/html");
+
+          pipe(body);
+
+          resolve(
+            new Response(stream, {
+              headers: responseHeaders,
+              status: responseStatusCode,
+            }),
+          );
+        },
+        onShellError(error: unknown) {
+          reject(error);
+        },
+        onError(error: unknown) {
+          responseStatusCode = 500;
+          // Log streaming rendering errors from inside the shell.  Don't log
+          // errors encountered during initial shell rendering since they'll
+          // reject and get logged in handleDocumentRequest.
+          if (shellRendered) {
+            console.error(error);
+          }
+        },
+      },
+    );
+  });
+}

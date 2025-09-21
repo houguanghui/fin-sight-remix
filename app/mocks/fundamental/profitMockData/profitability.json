@@ -1,0 +1,19 @@
+{
+  "secucode": "600519.SH",
+  "reportDate": "2025-06-30",
+  "profitabilityScore": 68.06,
+  "grossMargin": 91.299309,
+  "netMargin": 52.564068,
+  "operateMargin": 70.22,
+  "expenseRatios": {
+    "manageExpenseRatio": 25.94,
+    "financeExpenseRatio": -3.42,
+    "operateCostRatio": 54.59,
+    "saleExpenseRatio": 22.89
+  },
+  "growthIndicators": {
+    "epsGrowth": 9.008738,
+    "profitGrowth": 8.823621,
+    "revenueGrowth": 9.103244
+  }
+}
