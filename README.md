@@ -1,7 +1,8 @@
 <h1 align="center">FinSight Pro</h1>
-
 <div align="center">
+
 ![](https://github.com/houguanghui/fin-sight-remix/blob/main/public/preview-01.png)
+
 </div>
 
 ## 使用
