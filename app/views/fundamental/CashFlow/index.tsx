@@ -433,7 +433,7 @@ const CashFlowAnalysis: React.FC = () => {
                               <Progress
                                 type="circle"
                                 percent={Math.round((qualityData.cashIncomeRatio || 0) * 100)}
-                                width={80}
+                                size={80}
                                 status={qualityData.cashIncomeRatioGood ? 'success' : 'exception'}
                               />
                               <div style={{ marginTop: 16 }}>

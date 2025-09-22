@@ -17,15 +17,6 @@ import type { Route } from "./+types/index";
 import { Link, Outlet, useLocation, useNavigate } from 'react-router';
 import { EyeOutlined } from '@ant-design/icons';
 
-export async function loader() {
-  const response = await fetch('https://api.example.com/user')
-  const serverSideData = await response.json()
-
-  return {
-    serverSideData,
-  }
-}
-
 export function meta({}: Route.MetaArgs) {
   return [
     { title: "FinSight Pro" },

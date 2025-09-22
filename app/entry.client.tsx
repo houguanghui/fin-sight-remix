@@ -13,6 +13,10 @@ async function prepareApp() {
 
   return Promise.resolve()
 }
+// async function prepareApp() {
+//   const { worker } = await import('./mocks/browser')
+//   return worker.start()
+// }
 
 prepareApp().then(() => {
   startTransition(() => {

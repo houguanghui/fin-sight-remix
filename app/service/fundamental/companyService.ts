@@ -2,7 +2,7 @@ import type { PageDTO } from '@/types';
 import type { CompanyInfo } from '@/types/models/CompanyInfo';
 import { http as request } from '@/utils/request';
 
-const BASE_URL = '/api/sec-info';
+const BASE_URL = '/api/company-info';
 
 export const CompanyInfoAPI = {
   getCompanyInfoList: async (

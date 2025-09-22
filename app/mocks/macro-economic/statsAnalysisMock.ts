@@ -1,6 +1,6 @@
 import { delay, http, HttpResponse } from 'msw';
 import type { APIResponseResolver } from '../mockUtils';
-import type { APIResponse, Returndata, StockDaily } from '@/types';
+import type { APIResponse, Returndata } from '@/types';
 import cpi_A01030G_month from './cpi_A01030G_month.json'
 import gdp_A0101_quarter from './gdp_A0101_quarter.json'
 import gdp_A0102_quarter from './gdp_A0102_quarter.json'

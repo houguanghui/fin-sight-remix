@@ -1,7 +1,7 @@
 import { delay, http, HttpResponse } from 'msw';
 import type { APIResponseResolver } from '../mockUtils';
 import type { APIResponse, StockMinuteData } from '@/types';
-import data from './StockMinuteMockData.json'
+import data from './stockMinuteMockData.json'
 
 const BASE_URL = `${import.meta.env.VITE_MOCK_URL}/api/stock-minute`
 

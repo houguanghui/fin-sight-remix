@@ -112,7 +112,7 @@ const assetPieConfig = {
   const debtRatioConfig = {
     data: data.map(item => ({
       reportDate: item.reportDate,
-      debtRatio: item.totalAssets ? (item.totalLiabilities / item.totalAssets) * 100 : 0,
+      debtRatio: item.totalAssets ? ((item.totalLiabilities||0) / item.totalAssets) * 100 : 0,
       securityNameAbbr: item.securityNameAbbr
     })),
     xField: 'reportDate',
@@ -171,8 +171,8 @@ const assetPieConfig = {
       key: 'debtRatio',
       render: (_, record) => 
         record.totalAssets ? 
-          <Tag color={record.totalLiabilities / record.totalAssets > 0.7 ? 'red' : 'green'}>
-            {((record.totalLiabilities / record.totalAssets) * 100).toFixed(2)}%
+          <Tag color={(record.totalLiabilities||0) / record.totalAssets > 0.7 ? 'red' : 'green'}>
+            {(((record.totalLiabilities||0) / record.totalAssets) * 100).toFixed(2)}%
           </Tag> : 
           '-',
       align: 'center' as const,
@@ -231,7 +231,7 @@ const assetPieConfig = {
               <Card>
                 <Statistic
                   title="总资产"
-                  value={currentData.totalAssets}
+                  value={currentData.totalAssets||0}
                   precision={2}
                   formatter={(value) => `¥${(Number(value) / 1e8).toFixed(2)}亿`}
                 />
@@ -241,7 +241,7 @@ const assetPieConfig = {
               <Card>
                 <Statistic
                   title="总负债"
-                  value={currentData.totalLiabilities}
+                  value={currentData.totalLiabilities||0}
                   precision={2}
                   formatter={(value) => `¥${(Number(value) / 1e8).toFixed(2)}亿`}
                 />
@@ -251,7 +251,7 @@ const assetPieConfig = {
               <Card>
                 <Statistic
                   title="净资产"
-                  value={currentData.totalEquity}
+                  value={currentData.totalEquity||0}
                   precision={2}
                   formatter={(value) => `¥${(Number(value) / 1e8).toFixed(2)}亿`}
                 />
@@ -262,11 +262,11 @@ const assetPieConfig = {
                 <Statistic
                   title="资产负债率"
                   value={currentData.totalAssets ? 
-                    (currentData.totalLiabilities / currentData.totalAssets) * 100 : 0}
+                    ((currentData.totalLiabilities||0) / currentData.totalAssets) * 100 : 0}
                   precision={2}
                   suffix="%"
                   valueStyle={{
-                    color: currentData.totalLiabilities / currentData.totalAssets > 0.7 ? 
+                    color: (currentData.totalLiabilities||0) / (currentData.totalAssets||1) > 0.7 ? 
                       '#cf1322' : '#3f8600'
                   }}
                 />

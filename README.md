@@ -1,11 +1,12 @@
 <h1 align="center">FinSight Pro</h1>
 <div align="center">
 
-![](https://github.com/houguanghui/fin-sight-remix/blob/main/public/preview-01.png)
+![](https://houguanghui.github.io/preview-01.png)
 
 </div>
 
 - 预览：https://houguanghui.github.io/
+- 后端：https://github.com/houguanghui/finsight-sboot
 
 ## 使用
 
