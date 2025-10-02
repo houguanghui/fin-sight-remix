@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "react-router build",
+    "build:dev": "cross-env NODE_ENV=development react-router build --mode development",
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc"
@@ -26,6 +27,7 @@
     "@types/node": "^20",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
+    "cross-env": "^10.1.0",
     "msw": "^2.11.1",
     "tailwindcss": "^4.1.4",
     "typescript": "^5.8.3",

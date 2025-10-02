@@ -14,6 +14,12 @@
 # 使用 npm
 npm i
 npm run dev
+npm run build:dev
+```
+
+```bash
+# 使用 docker [localhost:80]
+docker run -d --name finsight-demo -p 80:80 registry.cn-hangzhou.aliyuncs.com/houguanghui/finsight-remix:demo
 ```
 
 ## 支持环境

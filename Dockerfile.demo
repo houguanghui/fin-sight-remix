@@ -1,0 +1,16 @@
+# Dockerfile.demo
+FROM node:20-alpine AS builder
+WORKDIR /app
+COPY . .
+RUN npm ci && npm run build:dev
+
+FROM httpd:alpine
+
+# 复制你的构建结果
+COPY --from=builder /app/build/client /usr/local/apache2/htdocs/
+
+# 启用 rewrite 模块
+RUN sed -i 's/#LoadModule rewrite_module/LoadModule rewrite_module/' /usr/local/apache2/conf/httpd.conf
+
+# 使用 printf 避免复杂的转义
+RUN printf '<Directory "/usr/local/apache2/htdocs">\nRewriteEngine On\nRewriteCond %%{REQUEST_FILENAME} !-f\nRewriteCond %%{REQUEST_FILENAME} !-d\nRewriteRule . /index.html [L]\n</Directory>\n' >> /usr/local/apache2/conf/httpd.conf
